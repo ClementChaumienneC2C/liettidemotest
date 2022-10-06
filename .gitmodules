@@ -22,3 +22,8 @@
 	path = OCA/credit-control
 	url = git@github.com:OCA/credit-control.git
 	branch = 15.0
+
+[submodule "grindtildeath/stock-logistics-workflow"]
+	path = grindtildeath/stock-logistics-workflow
+	url = git@github.com:grindtildeath/stock-logistics-workflow.git
+	branch = 15.0-mig-stock_lot_product_qty_search
