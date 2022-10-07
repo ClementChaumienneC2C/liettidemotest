@@ -27,3 +27,8 @@
 	path = grindtildeath/stock-logistics-workflow
 	url = git@github.com:grindtildeath/stock-logistics-workflow.git
 	branch = 15.0-mig-stock_lot_product_qty_search
+
+[submodule "damdam-s/manufacture"]
+	path = damdam-s/manufacture
+	url = git@github.com:damdam-s/manufacture.git
+	branch = 15.0-add-mrp_mass_produce_allow_components_serial_number
